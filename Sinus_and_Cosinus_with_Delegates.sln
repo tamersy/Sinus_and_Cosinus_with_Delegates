@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sinus_and_Cosinus_with_Delegates", "Sinus_and_Cosinus_with_Delegates\Sinus_and_Cosinus_with_Delegates.csproj", "{A309F032-B2F6-4787-BC8D-2DB25907C6C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A309F032-B2F6-4787-BC8D-2DB25907C6C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A309F032-B2F6-4787-BC8D-2DB25907C6C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A309F032-B2F6-4787-BC8D-2DB25907C6C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A309F032-B2F6-4787-BC8D-2DB25907C6C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73D3109D-4A3A-4247-BD6B-29C0EA333739}
+	EndGlobalSection
+EndGlobal

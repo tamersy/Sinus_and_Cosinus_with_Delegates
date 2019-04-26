@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\Sinus_and_Cosinus_with_Delegates\Sinus_and_Cosinus_with_Delegates\bin\Debug\Sinus_and_Cosinus_with_Delegates.exe.config
+C:\Users\USER\source\repos\Sinus_and_Cosinus_with_Delegates\Sinus_and_Cosinus_with_Delegates\bin\Debug\Sinus_and_Cosinus_with_Delegates.exe
+C:\Users\USER\source\repos\Sinus_and_Cosinus_with_Delegates\Sinus_and_Cosinus_with_Delegates\bin\Debug\Sinus_and_Cosinus_with_Delegates.pdb
+C:\Users\USER\source\repos\Sinus_and_Cosinus_with_Delegates\Sinus_and_Cosinus_with_Delegates\obj\Debug\Sinus_and_Cosinus_with_Delegates.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Sinus_and_Cosinus_with_Delegates\Sinus_and_Cosinus_with_Delegates\obj\Debug\Sinus_and_Cosinus_with_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Sinus_and_Cosinus_with_Delegates\Sinus_and_Cosinus_with_Delegates\obj\Debug\Sinus_and_Cosinus_with_Delegates.exe
+C:\Users\USER\source\repos\Sinus_and_Cosinus_with_Delegates\Sinus_and_Cosinus_with_Delegates\obj\Debug\Sinus_and_Cosinus_with_Delegates.pdb
